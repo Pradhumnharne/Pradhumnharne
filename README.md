@@ -1,4 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; ABOUT ME &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 Developer with a strong background in computer applications and AI-driven solutions<br>Built a Deepfake AI Video Detector using CNNs and facial landmark analysis, achieving over 90% accuracy on benchmark datasets (FaceForensics++, DFDC)<br><br>Integrated real-time video detection with OpenCV and TensorFlow, focusing on model interpretability and robustness<br><br>Developed a privacy-first Password Manager in React and Vite, emphasizing secure, client-side data handling and user-friendly design<br><br>Skilled in Python, C/C++, JavaScript, HTML, CSS, MySQL, and Git/GitHub<br><br>Strong in critical thinking, problem-solving, project management, and effective communication<br><br>Certified in Google Ads and C/C++<br><br>Adaptable, collaborative, and eager to contribute to impactful tech projects<br>
 
 
